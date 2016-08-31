@@ -1,0 +1,15 @@
+/*
+Theme Name: CCCI theme
+Author: Beard Sama Developer
+Description: Bootstrap Blog template converted to WordPress
+Version: 0.0.1
+Tags: bootstrap
+*/
+
+.template-contact .contact-details {
+    margin-top: 10px;
+}
+
+.menu-item-search{
+	float:right;
+}
